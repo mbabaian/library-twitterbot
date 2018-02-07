@@ -14,7 +14,7 @@
 
 import tweepy, sys, time
 
-from whs_credentials import *
+from credentials import *
 
 argfile = str(sys.argv[1])
 
